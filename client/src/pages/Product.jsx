@@ -1,4 +1,4 @@
-import { Add, Remove } from "@material-ui/icons";
+import { Add, Remove } from "@mui/icons-material";
 import { useEffect, useState } from "react";
 import { useDispatch } from "react-redux";
 import { useLocation } from "react-router-dom";

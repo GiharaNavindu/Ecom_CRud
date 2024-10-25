@@ -6,7 +6,8 @@ import {
   Pinterest,
   Room,
   Twitter,
-} from "@material-ui/icons";
+} from "@mui/icons-material"; // Updated import
+
 import styled from "styled-components";
 import { mobile } from "../responsive";
 
